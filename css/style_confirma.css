@@ -1,0 +1,31 @@
+body{
+    background-color: darkslategray;
+    font-family: sans-serif;
+}
+
+
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+}    
+
+
+.card{
+    box-shadow: 1px 1px 5px dodgerblue;
+    background-color: white;
+    padding: 30px;
+    border-radius: 6px;
+}    
+
+.card-group > button{
+    background-image: linear-gradient(to right, orange, rgb(75, 70, 70));
+    width: 100%;
+    border-radius: 80px;
+    padding: 12px;
+    border: 0px;
+    outline: 0;
+}
+
+.title{
+    color: orange;
